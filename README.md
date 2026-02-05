@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Natasha Krishna Kanth`
+- **CCID:** `<nkrishn2`
 
 ## References and Resources
 
